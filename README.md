@@ -1,5 +1,4 @@
 # prep_repo
 
 let's add some text here
-
-goodbye!
+Hello - how are you - goodbye
