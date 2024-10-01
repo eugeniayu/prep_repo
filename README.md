@@ -1,5 +1,4 @@
 # prep_repo
 
 hello world!
-
-Let's add some new points here!
+We will add new points to resolve merge conflict
